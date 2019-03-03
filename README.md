@@ -8,6 +8,12 @@ Vietnam map history
 * Xây dựng một Web View để người dùng có thể duyệt qua các bản đồ trên theo dòng thời gian (timeline)
 * Xây dựng Database để lưu thông tin về từng giai đoạn lịch sử ứng với từng bản đồ
 
+## Program Libs
+* https://www.timemaps.com/history/south-east-asia-2500bc/
+* https://code.google.com/archive/p/timemap/downloads
+* https://gis.stackexchange.com/questions/26546/openlayers-animation-examples-and-algorithms
+* https://mapstory.org/search/?limit=30&offset=0&content&is_published&order_by=-popular_count
+
 ## Reference
 
 * https://lichsunuocvietnam.com/ban-do-lanh-tho-viet-nam-qua-cac-thoi-ky-phan1/
