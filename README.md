@@ -1,6 +1,13 @@
 # Vietnam_map_history
 Vietnam map history
 
+## Target
+* 03/03/2019 *
+* Số hóa, nắn chỉnh các bản đồ sưu tầm được về đúng hệ tọa độ Địa lý
+* Xây dựng các dịch vụ bản đồ (Web Map Services) cho các bản đồ đã được nắn chỉnh tọa độ
+* Xây dựng một Web View để người dùng có thể duyệt qua các bản đồ trên theo dòng thời gian (timeline)
+* Xây dựng Database để lưu thông tin về từng giai đoạn lịch sử ứng với từng bản đồ
+
 ## Reference
 
 * https://lichsunuocvietnam.com/ban-do-lanh-tho-viet-nam-qua-cac-thoi-ky-phan1/
