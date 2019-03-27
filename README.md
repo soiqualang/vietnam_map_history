@@ -13,6 +13,7 @@ Vietnam map history
 * https://code.google.com/archive/p/timemap/downloads
 * https://gis.stackexchange.com/questions/26546/openlayers-animation-examples-and-algorithms
 * https://mapstory.org/search/?limit=30&offset=0&content&is_published&order_by=-popular_count
+* https://juxtapose.knightlab.com/
 
 ## Reference
 
